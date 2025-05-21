@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cohere-ai": "^7.17.1",
+    "openai": "^4.100.0"
+  }
+}
